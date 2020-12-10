@@ -28,7 +28,7 @@ SERIAL_NUMBER = 20201210
 ICON = ibus-table.svg
 
 ### The symbol to be displayed in IM switchers
-SYMBOL = A
+SYMBOL = Аў
 
 ### The default name of this table, this is needed
 NAME = Awsha
