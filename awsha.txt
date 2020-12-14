@@ -55,7 +55,7 @@ AUTHOR = Benjamin P.M. Lovegood <benjaminpmlee@gmail.com>
 STATUS_PROMPT = Awsha
 
 ### Valid input chars.
-VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 ### Layout
 LAYOUT = us
@@ -186,7 +186,17 @@ y	й	1
 Y	Й	1
 w	ў	1
 W	Ў	1
-'	ь	1
+q	ь	1
+Q	Ь	1
+### Non-standard combinations
+r	л	1
+R	Л	1
+j	й	1
+J	Й	1
+x	х	1
+X	Х	1
+c	с	1
+C	С	1
 END_TABlE
 
 ### Since some input methods use different table for every character to make
