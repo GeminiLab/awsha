@@ -28,7 +28,7 @@ PHONOTACTICS = [
     (ZH, False, False),
     (TSH, False, False),
     (DZH, False, False),
-    (NG, True, True),
+    (NG, True, False),
     (K, True, True),
     (G, True, True),
     (H, True, True),
