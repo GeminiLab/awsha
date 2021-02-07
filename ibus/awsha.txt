@@ -130,16 +130,6 @@ END_DEFINITION
 ### the key combination you want; the 3rd column are frequency of the character
 ### or phrase.
 BEGIN_TABLE
-a	а	1
-A	А	1
-i	и	1
-I	И	1
-u	у	1
-U	У	1
-e	е	1
-E	Е	1
-o	о	1
-O	О	1
 m	м	1
 M	М	1
 p	п	1
@@ -182,6 +172,16 @@ g	г	1
 G	Г	1
 h	х	1
 H	Х	1
+i	и	1
+I	И	1
+e	е	1
+E	Е	1
+a	а	1
+A	А	1
+o	о	1
+O	О	1
+u	у	1
+U	У	1
 y	й	1
 Y	Й	1
 w	ў	1
